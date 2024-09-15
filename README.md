@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## Packages Used
+- `webview_flutter`: For opening web in app.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
